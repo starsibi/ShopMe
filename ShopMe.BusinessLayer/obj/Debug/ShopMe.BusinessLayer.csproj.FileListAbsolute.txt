@@ -1,0 +1,6 @@
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe.BusinessLayer\bin\Debug\ShopMe.BusinessLayer.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe.BusinessLayer\bin\Debug\ShopMe.BusinessLayer.pdb
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe.BusinessLayer\obj\Debug\ShopMe.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe.BusinessLayer\obj\Debug\ShopMe.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe.BusinessLayer\obj\Debug\ShopMe.BusinessLayer.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe.BusinessLayer\obj\Debug\ShopMe.BusinessLayer.pdb

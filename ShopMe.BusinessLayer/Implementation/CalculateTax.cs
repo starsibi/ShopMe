@@ -4,7 +4,7 @@ namespace ShopMe.BusinessLayer.Implementation
 {
     public class CalculateTax : ICalculateTax
     {
-        decimal ICalculateTax.CalculateTax(decimal subTotal)
+        public decimal GetTax(decimal subTotal)
         {
             return subTotal * 18 / 100;
         }

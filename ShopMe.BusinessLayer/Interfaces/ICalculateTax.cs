@@ -2,6 +2,6 @@
 {
     public interface ICalculateTax
     {
-        decimal CalculateTax(decimal subTotal);
+        decimal GetTax(decimal subTotal);
     }
 }

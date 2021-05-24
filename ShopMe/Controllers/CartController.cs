@@ -1,4 +1,6 @@
 ﻿using ShopMe.BusinessLayer;
+using ShopMe.BusinessLayer.Interfaces;
+using ShopMe.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +11,26 @@ namespace ShopMe.Controllers
 {
     public class CartController : Controller
     {
+        private readonly ICalculateCartFlow calculateCartFlow;
+
+        public CartController(ICalculateCartFlow calculateCartFlow)
+        {
+            this.calculateCartFlow = calculateCartFlow;
+        }
         // GET: Cart
         public ActionResult Index()
         {
-            List<Product> products = (List<Product>)Session["CartItems"] ?? new List<Product>(); 
+            List<Product> products = (List<Product>)Session["CartItems"] ?? new List<Product>();
+            CartModel cartModel = calculateCartFlow.Calculate(products);
+            CartViewModel cartViewModel = new CartViewModel
+            {
+                Products = cartModel.Products,
+                Discount = cartModel.Discount,
+                SubTotal = cartModel.SubTotal,
+                Tax = cartModel.Tax,
+                Total = cartModel.Total
+            };
+            return View(cartViewModel);
         }
 
 

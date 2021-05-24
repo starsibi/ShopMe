@@ -79,3 +79,15 @@ C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\obj\Debug\ShopMe.dll
 C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\obj\Debug\ShopMe.pdb
 C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\ShopMe.BusinessLayer.dll
 C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\ShopMe.BusinessLayer.pdb
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Abstractions.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Container.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Mvc.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\WebActivatorEx.dll
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Abstractions.pdb
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Container.pdb
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Mvc.pdb
+C:\Users\prithiviraj.r\source\repos\ShopMe\ShopMe\bin\Unity.Mvc.xml

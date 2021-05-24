@@ -12,7 +12,7 @@ namespace ShopMe.Controllers
         // GET: Cart
         public ActionResult Index()
         {
-            return View();
+            List<Product> products = (List<Product>)Session["CartItems"] ?? new List<Product>(); 
         }
 
 
